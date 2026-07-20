@@ -34,6 +34,7 @@ A collection of LeetCode questions Solved
 | [0215-kth-largest-element-in-an-array](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0904-fruit-into-baskets) |
 ## Backtracking
 |  |
 | ------- |
@@ -64,11 +65,13 @@ A collection of LeetCode questions Solved
 | [0003-longest-substring-without-repeating-characters](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0904-fruit-into-baskets) |
 ## Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0219-contains-duplicate-ii) |
+| [0904-fruit-into-baskets](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0904-fruit-into-baskets) |
 ## String
 |  |
 | ------- |
