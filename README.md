@@ -12,11 +12,13 @@ A collection of LeetCode questions Solved
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0100-same-tree) |
+| [0200-number-of-islands](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0102-binary-tree-level-order-traversal) |
+| [0200-number-of-islands](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -32,6 +34,7 @@ A collection of LeetCode questions Solved
 |  |
 | ------- |
 | [0078-subsets](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0078-subsets) |
+| [0200-number-of-islands](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0643-maximum-average-subarray-i) |
@@ -87,4 +90,12 @@ A collection of LeetCode questions Solved
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/1004-max-consecutive-ones-iii) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
