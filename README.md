@@ -110,4 +110,12 @@ A collection of LeetCode questions Solved
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0200-number-of-islands) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
