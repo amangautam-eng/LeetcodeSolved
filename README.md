@@ -86,6 +86,7 @@ A collection of LeetCode questions Solved
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0584-find-customer-referee) |
+| [0595-big-countries](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0595-big-countries) |
 | [1757-recyclable-and-low-fat-products](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/1757-recyclable-and-low-fat-products) |
 | [3611-find-overbooked-employees](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/3611-find-overbooked-employees) |
 ## Prefix Sum
