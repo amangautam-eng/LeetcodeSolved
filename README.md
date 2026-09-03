@@ -7,12 +7,14 @@ A collection of LeetCode questions Solved
 | ------- |
 | [0100-same-tree](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0102-binary-tree-level-order-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0200-number-of-islands) |
+| [0543-diameter-of-binary-tree](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -24,6 +26,7 @@ A collection of LeetCode questions Solved
 | ------- |
 | [0100-same-tree](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0102-binary-tree-level-order-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -140,4 +143,8 @@ A collection of LeetCode questions Solved
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0347-top-k-frequent-elements) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
