@@ -47,6 +47,7 @@ A collection of LeetCode questions Solved
 | ------- |
 | [0027-remove-element](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0027-remove-element) |
 | [0078-subsets](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0078-subsets) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0209-minimum-size-subarray-sum) |
@@ -176,4 +177,8 @@ A collection of LeetCode questions Solved
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
