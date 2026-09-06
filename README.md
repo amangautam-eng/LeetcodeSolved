@@ -45,6 +45,7 @@ A collection of LeetCode questions Solved
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0027-remove-element) |
 | [0078-subsets](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0078-subsets) |
 | [0200-number-of-islands](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0209-minimum-size-subarray-sum) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions Solved
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0125-valid-palindrome) |
 ## Bucket Sort
 |  |
