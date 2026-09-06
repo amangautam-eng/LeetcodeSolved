@@ -47,6 +47,7 @@ A collection of LeetCode questions Solved
 | ------- |
 | [0027-remove-element](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0027-remove-element) |
 | [0078-subsets](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0078-subsets) |
+| [0169-majority-element](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0215-kth-largest-element-in-an-array) |
@@ -68,11 +69,13 @@ A collection of LeetCode questions Solved
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0347-top-k-frequent-elements) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -100,6 +103,7 @@ A collection of LeetCode questions Solved
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0347-top-k-frequent-elements) |
 | [0904-fruit-into-baskets](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0904-fruit-into-baskets) |
@@ -154,6 +158,7 @@ A collection of LeetCode questions Solved
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0347-top-k-frequent-elements) |
 ## DP on Trees
 |  |
@@ -167,4 +172,8 @@ A collection of LeetCode questions Solved
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
