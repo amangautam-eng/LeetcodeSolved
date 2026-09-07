@@ -114,6 +114,7 @@ A collection of LeetCode questions Solved
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0392-is-subsequence) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Database
 |  |
@@ -152,6 +153,7 @@ A collection of LeetCode questions Solved
 | ------- |
 | [0027-remove-element](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0392-is-subsequence) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -181,4 +183,5 @@ A collection of LeetCode questions Solved
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
