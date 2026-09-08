@@ -14,6 +14,4 @@ class Solution:
                 s-=nums[l]
                 l+=1
 
-            
-
         return minlen if minlen != float('inf') else  0
