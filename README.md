@@ -108,6 +108,7 @@ A collection of LeetCode questions Solved
 | [0169-majority-element](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0383-ransom-note) |
 | [0904-fruit-into-baskets](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0904-fruit-into-baskets) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String
@@ -115,6 +116,7 @@ A collection of LeetCode questions Solved
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0125-valid-palindrome) |
+| [0383-ransom-note](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0392-is-subsequence) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Database
@@ -164,6 +166,7 @@ A collection of LeetCode questions Solved
 | ------- |
 | [0169-majority-element](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0383-ransom-note) |
 ## DP on Trees
 |  |
 | ------- |
