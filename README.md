@@ -109,6 +109,7 @@ A collection of LeetCode questions Solved
 | [0001-two-sum](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0242-valid-anagram) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions Solved
 | ------- |
 | [0027-remove-element](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0392-is-subsequence) |
 ## Bucket Sort
 |  |
@@ -200,4 +202,12 @@ A collection of LeetCode questions Solved
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
