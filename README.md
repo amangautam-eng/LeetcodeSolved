@@ -47,6 +47,7 @@ A collection of LeetCode questions Solved
 | ------- |
 | [0001-two-sum](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0027-remove-element) |
+| [0049-group-anagrams](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions Solved
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0242-valid-anagram) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions Solved
 | ------- |
 | [0001-two-sum](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0205-isomorphic-strings) |
@@ -122,6 +125,7 @@ A collection of LeetCode questions Solved
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0242-valid-anagram) |
