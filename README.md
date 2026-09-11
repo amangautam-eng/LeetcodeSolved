@@ -111,6 +111,7 @@ A collection of LeetCode questions Solved
 | [0001-two-sum](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0049-group-anagrams) |
+| [0138-copy-list-with-random-pointer](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0202-happy-number) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions Solved
 | [0002-add-two-numbers](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0141-linked-list-cycle) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
