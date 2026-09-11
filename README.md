@@ -162,6 +162,7 @@ A collection of LeetCode questions Solved
 | ------- |
 | [0002-add-two-numbers](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0021-merge-two-sorted-lists) |
+| [0061-rotate-list](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0141-linked-list-cycle) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions Solved
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0027-remove-element) |
+| [0061-rotate-list](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0202-happy-number) |
