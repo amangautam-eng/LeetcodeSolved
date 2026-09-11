@@ -159,12 +159,14 @@ A collection of LeetCode questions Solved
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0141-linked-list-cycle) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0021-merge-two-sorted-lists) |
 ## Two Pointers
 |  |
@@ -213,6 +215,7 @@ A collection of LeetCode questions Solved
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0202-happy-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
