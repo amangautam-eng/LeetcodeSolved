@@ -14,6 +14,7 @@ A collection of LeetCode questions Solved
 | [0226-invert-binary-tree](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0543-diameter-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions Solved
 | [0226-invert-binary-tree](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0543-diameter-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -37,6 +39,7 @@ A collection of LeetCode questions Solved
 | [0199-binary-tree-right-side-view](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0226-invert-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -49,6 +52,7 @@ A collection of LeetCode questions Solved
 | [0226-invert-binary-tree](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0543-diameter-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
