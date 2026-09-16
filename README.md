@@ -127,6 +127,7 @@ A collection of LeetCode questions Solved
 | [0643-maximum-average-subarray-i](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/1004-max-consecutive-ones-iii) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Hash Table
 |  |
@@ -159,6 +160,7 @@ A collection of LeetCode questions Solved
 | [0242-valid-anagram](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0392-is-subsequence) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Database
 |  |
