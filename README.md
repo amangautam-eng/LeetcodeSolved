@@ -9,6 +9,7 @@ A collection of LeetCode questions Solved
 | [0102-binary-tree-level-order-traversal](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0199-binary-tree-right-side-view) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions Solved
 | [0102-binary-tree-level-order-traversal](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0199-binary-tree-right-side-view) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions Solved
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0209-minimum-size-subarray-sum](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0209-minimum-size-subarray-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0700-search-in-a-binary-search-tree) |
@@ -71,6 +74,7 @@ A collection of LeetCode questions Solved
 | [0027-remove-element](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0078-subsets) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0128-longest-consecutive-sequence) |
@@ -96,6 +100,7 @@ A collection of LeetCode questions Solved
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0347-top-k-frequent-elements) |
