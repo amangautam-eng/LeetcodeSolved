@@ -78,6 +78,7 @@ A collection of LeetCode questions Solved
 | [0014-longest-common-prefix](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions Solved
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0380-insert-delete-getrandom-o1) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
