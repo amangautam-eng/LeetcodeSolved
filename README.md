@@ -71,6 +71,7 @@ A collection of LeetCode questions Solved
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0700-search-in-a-binary-search-tree) |
 | [1004-max-consecutive-ones-iii](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/1004-max-consecutive-ones-iii) |
+| [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 ## Array
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions Solved
 | [0904-fruit-into-baskets](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/1004-max-consecutive-ones-iii) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Backtracking
 |  |
@@ -123,6 +125,7 @@ A collection of LeetCode questions Solved
 | [0242-valid-anagram](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0347-top-k-frequent-elements) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -195,6 +198,7 @@ A collection of LeetCode questions Solved
 | [0209-minimum-size-subarray-sum](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0238-product-of-array-except-self) |
 | [1004-max-consecutive-ones-iii](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/1004-max-consecutive-ones-iii) |
+| [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 ## Union-Find
 |  |
 | ------- |
