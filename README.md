@@ -109,6 +109,7 @@ A collection of LeetCode questions Solved
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0078-subsets) |
 ## Divide and Conquer
 |  |
@@ -277,6 +278,7 @@ A collection of LeetCode questions Solved
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0002-add-two-numbers) |
+| [0029-divide-two-integers](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0380-insert-delete-getrandom-o1) |
