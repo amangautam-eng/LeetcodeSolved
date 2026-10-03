@@ -150,6 +150,7 @@ A collection of LeetCode questions Solved
 | [0187-repeated-dna-sequences](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0219-contains-duplicate-ii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/1004-max-consecutive-ones-iii) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions Solved
 | [0347-top-k-frequent-elements](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0383-ransom-note) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0904-fruit-into-baskets) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String
@@ -192,6 +194,7 @@ A collection of LeetCode questions Solved
 | [0242-valid-anagram](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0392-is-subsequence) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Database
