@@ -114,6 +114,7 @@ A collection of LeetCode questions Solved
 | ------- |
 | [0029-divide-two-integers](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0078-subsets) |
+| [0187-repeated-dna-sequences](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0187-repeated-dna-sequences) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions Solved
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0643-maximum-average-subarray-i) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions Solved
 | [0138-copy-list-with-random-pointer](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0219-contains-duplicate-ii) |
@@ -184,6 +187,7 @@ A collection of LeetCode questions Solved
 | [0058-length-of-last-word](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0151-reverse-words-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0383-ransom-note) |
@@ -308,6 +312,7 @@ A collection of LeetCode questions Solved
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0187-repeated-dna-sequences) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
@@ -316,6 +321,7 @@ A collection of LeetCode questions Solved
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0187-repeated-dna-sequences) |
 ## Design
 |  |
 | ------- |
@@ -332,4 +338,12 @@ A collection of LeetCode questions Solved
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0852-peak-index-in-a-mountain-array) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
