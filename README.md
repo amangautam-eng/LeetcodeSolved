@@ -102,6 +102,7 @@ A collection of LeetCode questions Solved
 | [0904-fruit-into-baskets](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/1248-count-number-of-nice-subarrays) |
+| [1480-running-sum-of-1d-array](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1652-defuse-the-bomb](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/1652-defuse-the-bomb) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions Solved
 | [0238-product-of-array-except-self](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0238-product-of-array-except-self) |
 | [1004-max-consecutive-ones-iii](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/1248-count-number-of-nice-subarrays) |
+| [1480-running-sum-of-1d-array](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/1480-running-sum-of-1d-array) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 ## Union-Find
 |  |
