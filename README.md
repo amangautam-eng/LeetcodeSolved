@@ -95,6 +95,7 @@ A collection of LeetCode questions Solved
 | [0209-minimum-size-subarray-sum](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0380-insert-delete-getrandom-o1) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions Solved
 | [0088-merge-sorted-array](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0347-top-k-frequent-elements) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions Solved
 | [0202-happy-number](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0380-insert-delete-getrandom-o1) |
@@ -266,6 +269,7 @@ A collection of LeetCode questions Solved
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0383-ransom-note) |
 ## DP on Trees
@@ -284,6 +288,7 @@ A collection of LeetCode questions Solved
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0229-majority-element-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
