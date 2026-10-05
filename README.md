@@ -89,6 +89,7 @@ A collection of LeetCode questions Solved
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0128-longest-consecutive-sequence) |
+| [0152-maximum-product-subarray](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0209-minimum-size-subarray-sum) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions Solved
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0152-maximum-product-subarray](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
