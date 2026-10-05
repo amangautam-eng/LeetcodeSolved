@@ -363,4 +363,5 @@ A collection of LeetCode questions Solved
 |  |
 | ------- |
 | [1114-print-in-order](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/1114-print-in-order) |
+| [1115-print-foobar-alternately](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/1115-print-foobar-alternately) |
 <!---LeetCode Topics End-->
