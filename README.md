@@ -110,6 +110,7 @@ A collection of LeetCode questions Solved
 | [1652-defuse-the-bomb](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/1652-defuse-the-bomb) |
 | [1732-find-the-highest-altitude](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/1732-find-the-highest-altitude) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Backtracking
 |  |
@@ -227,6 +228,7 @@ A collection of LeetCode questions Solved
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/1732-find-the-highest-altitude) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Union-Find
 |  |
 | ------- |
@@ -312,6 +314,7 @@ A collection of LeetCode questions Solved
 | [0380-insert-delete-getrandom-o1](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0380-insert-delete-getrandom-o1) |
 | [1248-count-number-of-nice-subarrays](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/1248-count-number-of-nice-subarrays) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Floyd's Cycle Finding Algorithm
 |  |
