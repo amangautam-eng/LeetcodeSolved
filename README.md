@@ -110,6 +110,7 @@ A collection of LeetCode questions Solved
 | [1652-defuse-the-bomb](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/1652-defuse-the-bomb) |
 | [1732-find-the-highest-altitude](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/1732-find-the-highest-altitude) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
+| [2903-find-indices-with-index-and-value-difference-i](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Backtracking
@@ -265,6 +266,7 @@ A collection of LeetCode questions Solved
 | [0151-reverse-words-in-a-string](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0392-is-subsequence) |
+| [2903-find-indices-with-index-and-value-difference-i](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 ## Bucket Sort
 |  |
 | ------- |
