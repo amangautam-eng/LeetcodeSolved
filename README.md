@@ -109,6 +109,7 @@ A collection of LeetCode questions Solved
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1652-defuse-the-bomb](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/1652-defuse-the-bomb) |
 | [1732-find-the-highest-altitude](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/1732-find-the-highest-altitude) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions Solved
 | [0242-valid-anagram](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0347-top-k-frequent-elements) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 ## Heap (Priority Queue)
 |  |
@@ -266,6 +268,7 @@ A collection of LeetCode questions Solved
 | [0151-reverse-words-in-a-string](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0392-is-subsequence) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 ## Bucket Sort
 |  |
@@ -306,6 +309,7 @@ A collection of LeetCode questions Solved
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Math
 |  |
 | ------- |
