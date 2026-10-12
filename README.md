@@ -114,6 +114,7 @@ A collection of LeetCode questions Solved
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/2903-find-indices-with-index-and-value-difference-i) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Backtracking
@@ -197,6 +198,7 @@ A collection of LeetCode questions Solved
 | [0904-fruit-into-baskets](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0904-fruit-into-baskets) |
 | [1248-count-number-of-nice-subarrays](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/1248-count-number-of-nice-subarrays) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## String
 |  |
 | ------- |
@@ -327,6 +329,7 @@ A collection of LeetCode questions Solved
 | [0380-insert-delete-getrandom-o1](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0380-insert-delete-getrandom-o1) |
 | [1248-count-number-of-nice-subarrays](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/1248-count-number-of-nice-subarrays) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Floyd's Cycle Finding Algorithm
