@@ -1,14 +1,12 @@
 class Solution:
-    def twoSum(self, nums: List[int], target: int) -> List[int]:
+    def twoSum(self, nums: list[int], target: int) -> list[int]:
 
-        count={}
+        freq={}
 
-        for i,num in enumerate(nums):
-            comp = target - num
+        for i in range(len(nums)):
+            if target-nums[i] in freq:
+                return [freq[target-nums[i]],i]
 
-            if comp in count:
-                return [count[comp],i]
-
-            count[num] = i
-
+            else:
+                freq[nums[i]]=i
         
