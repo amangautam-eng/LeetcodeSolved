@@ -101,6 +101,7 @@ A collection of LeetCode questions Solved
 | [0347-top-k-frequent-elements](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0380-insert-delete-getrandom-o1) |
 | [0643-maximum-average-subarray-i](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0643-maximum-average-subarray-i) |
+| [0705-design-hashset](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0705-design-hashset) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0904-fruit-into-baskets](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0904-fruit-into-baskets) |
 | [0948-bag-of-tokens](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0948-bag-of-tokens) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions Solved
 | [0380-insert-delete-getrandom-o1](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0705-design-hashset](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0705-design-hashset) |
 | [0904-fruit-into-baskets](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0904-fruit-into-baskets) |
 | [1248-count-number-of-nice-subarrays](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/1248-count-number-of-nice-subarrays) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions Solved
 | [0083-remove-duplicates-from-sorted-list](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0141-linked-list-cycle) |
+| [0705-design-hashset](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0705-design-hashset) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
 |  |
@@ -370,6 +373,7 @@ A collection of LeetCode questions Solved
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0380-insert-delete-getrandom-o1) |
+| [0705-design-hashset](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0705-design-hashset) |
 ## Randomized
 |  |
 | ------- |
@@ -390,6 +394,7 @@ A collection of LeetCode questions Solved
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0187-repeated-dna-sequences) |
+| [0705-design-hashset](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0705-design-hashset) |
 ## Concurrency
 |  |
 | ------- |
