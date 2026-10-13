@@ -117,6 +117,7 @@ A collection of LeetCode questions Solved
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Backtracking
 |  |
 | ------- |
@@ -149,6 +150,7 @@ A collection of LeetCode questions Solved
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -319,6 +321,7 @@ A collection of LeetCode questions Solved
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0948-bag-of-tokens](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0948-bag-of-tokens) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Math
 |  |
 | ------- |
