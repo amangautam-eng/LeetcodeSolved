@@ -72,6 +72,7 @@ A collection of LeetCode questions Solved
 | [0209-minimum-size-subarray-sum](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0209-minimum-size-subarray-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0278-first-bad-version](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0278-first-bad-version) |
+| [0367-valid-perfect-square](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0367-valid-perfect-square) |
 | [0700-search-in-a-binary-search-tree](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0700-search-in-a-binary-search-tree) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/1004-max-consecutive-ones-iii) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions Solved
 | [0066-plus-one](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0202-happy-number) |
+| [0367-valid-perfect-square](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0380-insert-delete-getrandom-o1) |
 | [1248-count-number-of-nice-subarrays](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/1248-count-number-of-nice-subarrays) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/1588-sum-of-all-odd-length-subarrays) |
