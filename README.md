@@ -71,6 +71,7 @@ A collection of LeetCode questions Solved
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0209-minimum-size-subarray-sum](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0209-minimum-size-subarray-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0278-first-bad-version](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0278-first-bad-version) |
 | [0700-search-in-a-binary-search-tree](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0700-search-in-a-binary-search-tree) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/1004-max-consecutive-ones-iii) |
@@ -406,4 +407,8 @@ A collection of LeetCode questions Solved
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0069-sqrtx) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
