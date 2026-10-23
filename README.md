@@ -67,6 +67,7 @@ A collection of LeetCode questions Solved
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0069-sqrtx) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0209-minimum-size-subarray-sum](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0209-minimum-size-subarray-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions Solved
 | [0002-add-two-numbers](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0380-insert-delete-getrandom-o1) |
 | [1248-count-number-of-nice-subarrays](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/1248-count-number-of-nice-subarrays) |
@@ -400,4 +402,8 @@ A collection of LeetCode questions Solved
 | ------- |
 | [1114-print-in-order](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/1114-print-in-order) |
 | [1115-print-foobar-alternately](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/1115-print-foobar-alternately) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
