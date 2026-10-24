@@ -224,6 +224,7 @@ A collection of LeetCode questions Solved
 | [0392-is-subsequence](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2409-count-days-spent-together](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/2409-count-days-spent-together) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Database
 |  |
@@ -340,6 +341,7 @@ A collection of LeetCode questions Solved
 | [0380-insert-delete-getrandom-o1](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0380-insert-delete-getrandom-o1) |
 | [1248-count-number-of-nice-subarrays](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/1248-count-number-of-nice-subarrays) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [2409-count-days-spent-together](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/2409-count-days-spent-together) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
