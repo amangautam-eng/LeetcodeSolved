@@ -15,6 +15,7 @@ A collection of LeetCode questions Solved
 | [0129-sum-root-to-leaf-numbers](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions Solved
 | [0199-binary-tree-right-side-view](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions Solved
 | [0129-sum-root-to-leaf-numbers](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -71,6 +74,7 @@ A collection of LeetCode questions Solved
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0209-minimum-size-subarray-sum) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0278-first-bad-version](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0367-valid-perfect-square) |
