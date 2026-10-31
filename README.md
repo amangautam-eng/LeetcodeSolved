@@ -87,6 +87,7 @@ A collection of LeetCode questions Solved
 | ------- |
 | [0001-two-sum](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0049-group-anagrams) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions Solved
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0061-rotate-list) |
