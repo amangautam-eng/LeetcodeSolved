@@ -117,6 +117,7 @@ A collection of LeetCode questions Solved
 | [0948-bag-of-tokens](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0948-bag-of-tokens) |
 | [1004-max-consecutive-ones-iii](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/1248-count-number-of-nice-subarrays) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions Solved
 | [0904-fruit-into-baskets](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/1248-count-number-of-nice-subarrays) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1652-defuse-the-bomb](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/1652-defuse-the-bomb) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/3090-maximum-length-substring-with-two-occurrences) |
