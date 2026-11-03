@@ -73,6 +73,7 @@ A collection of LeetCode questions Solved
 | [0069-sqrtx](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0069-sqrtx) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions Solved
 | [0128-longest-consecutive-sequence](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0209-minimum-size-subarray-sum) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions Solved
 | [0125-valid-palindrome](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0392-is-subsequence) |
 | [0948-bag-of-tokens](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0948-bag-of-tokens) |
