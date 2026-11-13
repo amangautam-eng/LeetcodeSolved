@@ -115,6 +115,7 @@ A collection of LeetCode questions Solved
 | [0238-product-of-array-except-self](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0380-insert-delete-getrandom-o1) |
+| [0560-subarray-sum-equals-k](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0643-maximum-average-subarray-i) |
 | [0705-design-hashset](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0705-design-hashset) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions Solved
 | [0380-insert-delete-getrandom-o1](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0705-design-hashset) |
 | [0904-fruit-into-baskets](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0904-fruit-into-baskets) |
 | [1248-count-number-of-nice-subarrays](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/1248-count-number-of-nice-subarrays) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions Solved
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/1480-running-sum-of-1d-array) |
