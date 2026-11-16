@@ -241,6 +241,7 @@ A collection of LeetCode questions Solved
 | [0392-is-subsequence](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/2409-count-days-spent-together) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Database
@@ -439,4 +440,8 @@ A collection of LeetCode questions Solved
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/0278-first-bad-version) |
+## Simulation
+|  |
+| ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/amangautam-eng/LeetcodeSolved/tree/master/2243-calculate-digit-sum-of-a-string) |
 <!---LeetCode Topics End-->
